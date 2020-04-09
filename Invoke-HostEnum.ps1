@@ -15,11 +15,11 @@
 	 Created on:   		12/07/2019
 	 Created by:   		David Pitre
 	 Filename:     		Invoke-HostEnum.ps1
-	 Version:			0.1
+	 Version:		0.1
 	 Classification:	Public
 
 	 TODO
-	 1.	Tidy up the script
+	 1. Tidy up the script
 	 2. Implement Reporting
 	===========================================================================
 
