@@ -27,7 +27,7 @@
 		PS C:\> Invoke-hostenum.ps1 -OutputPath "\\server\share"
 	
 	.LINK
-		https://github.com/davidpitre/Invoke-hostenum
+		https://github.com/davidpitre/Invoke-HostEnum
 
 #>
 [CmdletBinding(PositionalBinding = $false)]
