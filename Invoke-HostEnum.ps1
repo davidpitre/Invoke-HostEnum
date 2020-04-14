@@ -3,10 +3,10 @@
 		Enumerate the local host
 	
 	.DESCRIPTION
-		This is most a rip of the script from ThreatExpress however i have included the ability to enumerate all files services and crucial registry keys
+		This is most a rip of the script from ThreatExpress however i have included the ability to enumerate all files, services, and crucial registry keys
 		based on the effective access of all local users. 
 		I have found it to be very useful during assessments for privilege escalation.
-		I am working on a complete rewrite of the script that includes visual reporting elements however that is currently a low priority project
+		I am working on a complete rewrite of the script that includes visual reporting elements; however, that is currently a low priority project
 
 		Orginal Script: https://github.com/threatexpress/red-team-scripts/blob/master/HostEnum.ps1
 	
